@@ -9,3 +9,6 @@
 
 /* HOME */
 @import "home/introducao.css";
+
+/* BICICLTAS */
+@import "bicicletas/bicicletas-lista.css";
